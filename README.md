@@ -1,4 +1,4 @@
-# Part of Speech Tagger using Hidden Markov Model (HMM)
+# Speech Tagger using Hidden Markov Model (HMM)
 
 This repository contains a Jupyter notebook that demonstrates the implementation of a Part of Speech (POS) tagger using a Hidden Markov Model (HMM).
 
