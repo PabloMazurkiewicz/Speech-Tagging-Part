@@ -77,5 +77,3 @@ To use this notebook, follow these steps:
 
 - **Most Frequent Class Tagger (MFCTagger):** This section implements a simple baseline tagger that assigns the most frequent tag for each word. The `MFCTagger` class is provided to mock the interface of the HMM models so that they can be used interchangeably.
 - **Evaluation:** Evaluate the tagger on a test dataset and compare the accuracy of the HMM tagger and the MFCTagger.
-
-For more information, please refer to the provided README from [Udacity](./README_Udacity.md).
